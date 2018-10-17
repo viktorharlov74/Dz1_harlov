@@ -1,0 +1,5 @@
+Запуск тестов из консоли python -m unittest -v  tests.py 
+
+
+
+ 
